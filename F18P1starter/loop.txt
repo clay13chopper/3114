@@ -1,0 +1,10 @@
+add test
+add new thing
+add double
+print hashtable
+print blocks
+delete test
+print blocks
+delete new thing
+print blocks
+add double

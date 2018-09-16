@@ -1,0 +1,8 @@
+add test
+add new thing
+print hashtable
+add double 
+print hashtable
+add dup 
+add dup 
+print hashtable

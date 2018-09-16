@@ -1,0 +1,4 @@
+add test
+add new thing
+delete double
+print hashtable

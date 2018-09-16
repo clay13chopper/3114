@@ -1,0 +1,8 @@
+add Death Note
+update delete Death Note <SEP> Doesn't Exist
+update delete Doesn't Exist <SEP> Doesn't Exist
+update
+update djkshalkj
+update add Death     Note  <SEP>    Genre    <SEP>Anime
+update delete Death     Note  <SEP>    Genre 
+print hashtable

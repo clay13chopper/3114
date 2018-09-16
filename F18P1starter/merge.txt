@@ -1,0 +1,16 @@
+print hashtable
+print blocks 
+add the best we can do 
+add the best we can do again 
+print blocks 
+add xyz movie 
+update add xyz movie<SEP>category<SEP>crab
+add how to train your dragon 
+delete the best we can do again 
+update delete xyz movie <SEP>category
+print blocks 
+delete xyz movie 
+delete the best we can do 
+print blocks 
+add how to train your dragons to eat your neighbour's Pizza
+print blocks

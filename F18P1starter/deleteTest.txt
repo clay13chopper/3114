@@ -1,0 +1,9 @@
+add one
+delete two
+add two
+delete one
+add three
+delete three
+delete
+delete nothing
+print hashtable

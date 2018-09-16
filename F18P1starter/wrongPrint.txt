@@ -1,0 +1,4 @@
+print
+print sdakfjalk
+
+this is not a command

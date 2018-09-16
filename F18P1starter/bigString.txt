@@ -1,0 +1,4 @@
+print hashtable
+print blocks
+add the best we can do to make you resize your memory after all we are just trying
+print blocks
