@@ -193,7 +193,7 @@ public class Hash {
      * Search for an entry
      * 
      * @param name
-     *            The target
+     *            of the target
      * @return the position
      */
     private int search(String name) {
